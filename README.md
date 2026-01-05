@@ -44,13 +44,5 @@ Le système est développé selon le **modèle de cycle de vie en V**, garantiss
 
 ---
 
-## 🚀 INSTALLATION ET UTILISATION
 
-### Prérequis
-- Python 3.10+  
-- Serveur MySQL (ex : XAMPP)  
 
-### Étapes
-1. **Cloner le dépôt :**
-```bash
-git clone https://github.com/votre-username/facial-attendance.git
